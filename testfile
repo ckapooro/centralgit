@@ -1,2 +1,6 @@
-function test{ user: string
+function Roast(user: string, password: string)
+{
+  username = "test"
+  password = "test"
+  return (test,test)
 }
