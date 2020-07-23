@@ -1,0 +1,3 @@
+function test()
+  good: test
+{}
